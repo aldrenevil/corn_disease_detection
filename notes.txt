@@ -1,0 +1,1 @@
+1) tf-serving: docker run -t --rm -p 8605:8605 -v C:\Aldrene\.THESIS\corn_cpu\Scripts\corn-try:/corn-try tensorflow/serving --rest_api_port=8605 --model_config_file=/corn-try/models.config
